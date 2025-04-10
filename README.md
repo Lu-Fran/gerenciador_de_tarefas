@@ -35,3 +35,11 @@ python main.py
 📊 Relatório de tarefas por status
 🌐 Versão web com Flask ou Django
 
+🧑‍💻 Autor
+Desenvolvido por Luís Francisco
+🔗 LinkedIn
+📧 lu-fran@email.com (ou outro contato que preferir)
+
+📄 Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+
