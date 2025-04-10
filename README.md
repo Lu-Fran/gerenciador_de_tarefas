@@ -38,7 +38,11 @@ python main.py
 🧑‍💻 Autor
 Desenvolvido por Luís Francisco
 🔗 LinkedIn
-📧 lu-fran@email.com (ou outro contato que preferir)
+
+
+ 📧 linkedin.com/in/luis-eduardo-7481381a2
+
+📧 lecfranca.ti@gmail.com
 
 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
