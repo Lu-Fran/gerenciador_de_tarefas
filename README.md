@@ -19,6 +19,9 @@ Aplicativo desktop feito com Python + Tkinter para organização de tarefas e pr
 - Tkinter
 - tkcalendar
 
+## 📽️ Vídeo Demonstrativo
+- https://www.linkedin.com/feed/update/urn:li:activity:7316065059649019905/
+
 ## 📥 Instalação
 
 git clone https://github.com/Lu-Fran/gerenciador-de-tarefas.git
