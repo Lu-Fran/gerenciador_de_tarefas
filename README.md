@@ -21,7 +21,7 @@ Aplicativo desktop feito com Python + Tkinter para organização de tarefas e pr
 
 ## 📥 Instalação
 
-git clone https://github.com/SEU_USUARIO/gerenciador-de-tarefas.git
+git clone https://github.com/Lu-Fran/gerenciador-de-tarefas.git
 cd gerenciador-de-tarefas
 pip install -r requirements.txt
 python main.py
