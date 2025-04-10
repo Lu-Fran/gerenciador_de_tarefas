@@ -26,9 +26,9 @@ cd gerenciador-de-tarefas
 pip install -r requirements.txt
 python main.py
 
-##💡 Próximas melhorias:
-Filtros por status
-Abas separadas por categoria
-Histórico de alterações
-Interface mais limpa e intuitiva
+💡 Próximas melhorias:
+.Filtros por status
+.Abas separadas por categoria
+.Histórico de alterações
+.Interface mais limpa e intuitiva
 
