@@ -1,0 +1,177 @@
+[
+    {
+        "id": "af5546f4-d472-4ed4-987f-ee6a826e0225",
+        "descricao": "Gerenciamento Tarefa",
+        "data_inicio": "07/04/2025",
+        "data_termino": "11/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "8e260969-416e-4c10-8aed-e4d3f0e15ae0",
+                "descricao": "Rever forma de vizualização - concluídas",
+                "data_inicio": "07/04/2025",
+                "data_termino": "07/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "923fc4d9-e613-470f-894c-e63d6a9404b2",
+                "descricao": "Criar PDF ou relatório",
+                "data_inicio": "07/04/2025",
+                "data_termino": "10/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "867c4f69-a6df-492e-be70-787734584af6",
+                "descricao": "GitHub",
+                "data_inicio": "07/04/2025",
+                "data_termino": "07/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "1331578e-caeb-4a44-88c2-4a8c23ed03bd",
+                "descricao": "Gerar marketing - Linkedln, Instagram",
+                "data_inicio": "13/04/2025",
+                "data_termino": "14/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "dfbb0f0a-310c-45f8-be8a-5c9dd33e0970",
+        "descricao": "Portifólio - Site",
+        "data_inicio": "05/04/2025",
+        "data_termino": "10/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "dddd3a67-d685-41ba-8df4-77bf86961e96",
+                "descricao": "Reescrever código HTML e CSS ",
+                "data_inicio": "08/04/2025",
+                "data_termino": "11/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "c9b4797f-72bb-4f13-bf7b-543a8ff08770",
+                "descricao": "Aplicar tela responsiva",
+                "data_inicio": "08/04/2025",
+                "data_termino": "10/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "0a6d478a-8b9a-4b59-93e5-c2bd8e80cdc0",
+        "descricao": "Automação Relatório",
+        "data_inicio": "05/04/2025",
+        "data_termino": "25/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "df36eeb6-0a85-48ab-a24b-44578bfa2df8",
+                "descricao": "Melhorar envio e-mails",
+                "data_inicio": "05/04/2025",
+                "data_termino": "08/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "b752c16a-ee16-42dd-9229-0469de0f35e4",
+        "descricao": "Aplicativo Agendamento serviços",
+        "data_inicio": "04/04/2025",
+        "data_termino": "15/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "92e802f4-82c2-4624-8560-295ef659b8a6",
+                "descricao": "Criar lógica de programação",
+                "data_inicio": "05/04/2025",
+                "data_termino": "05/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "b1b6ec67-d31d-4f16-8dd5-8a2055802959",
+                "descricao": "Criar Functions e aplicações",
+                "data_inicio": "05/04/2025",
+                "data_termino": "10/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "a9bec7ce-e00e-4f01-a1ab-b295dd5e8d9c",
+        "descricao": "Gão e Qui - Cachorros",
+        "data_inicio": "07/04/2025",
+        "data_termino": "30/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "2a6315c5-83cd-4145-b365-a3eac31c449c",
+                "descricao": "Banho",
+                "data_inicio": "13/04/2025",
+                "data_termino": "13/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "8edfd348-0c79-47cf-927e-d59624793eb6",
+                "descricao": "Adestramento - Passear rua",
+                "data_inicio": "07/04/2025",
+                "data_termino": "30/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "b798e6ef-318f-4ef7-b84c-54b34b10757d",
+                "descricao": "Vacinas",
+                "data_inicio": "07/04/2025",
+                "data_termino": "30/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "a35b54fa-f3d6-4863-82e9-b2b05f5999b3",
+        "descricao": "Python - Módulos 27 / 28 / 33",
+        "data_inicio": "06/04/2025",
+        "data_termino": "30/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "4b60380b-5023-494e-a546-c370bbfccbe7",
+                "descricao": "Módulo 27",
+                "data_inicio": "06/04/2025",
+                "data_termino": "11/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "3d8fbac5-b689-4841-bd7b-4a0ef5f17d12",
+                "descricao": "Módulo 28",
+                "data_inicio": "06/04/2025",
+                "data_termino": "18/04/2025",
+                "status": "Pendente"
+            },
+            {
+                "id": "8f723243-1ec2-40ea-b955-9f48b8a8ecf4",
+                "descricao": "Módulo 33",
+                "data_inicio": "06/04/2025",
+                "data_termino": "06/04/2025",
+                "status": "Pendente"
+            }
+        ]
+    },
+    {
+        "id": "99237ea3-ef83-4dd0-83a4-5382da8376b0",
+        "descricao": "Teste aplicado",
+        "data_inicio": "09/04/2025",
+        "data_termino": "18/04/2025",
+        "status": "Pendente",
+        "subtarefas": [
+            {
+                "id": "f786c5c1-bb2d-4d8f-a49e-2134e0e9361c",
+                "descricao": "Associação",
+                "data_inicio": "17/04/2025",
+                "data_termino": "09/04/2025",
+                "status": "Concluído"
+            }
+        ]
+    }
+]
