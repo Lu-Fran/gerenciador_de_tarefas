@@ -1,49 +1,67 @@
-## 🗂️ Gerenciador de Tarefas com Tkinter
+📌 Gerenciador de Tarefas — Tkinter Desktop
+📖 Descrição
+Aplicativo de gerenciamento de tarefas desenvolvido em Python com Tkinter para interface gráfica. Permite criar, editar, excluir e concluir tarefas e subtarefas, com controle de datas e status.
 
-Aplicativo desktop feito com Python + Tkinter para organização de tarefas e projetos.
+🎨 Tecnologias Utilizadas
+Python 3.x
 
-## ✨ Funcionalidades
+Tkinter (Interface gráfica)
 
-- Criar, editar e excluir tarefas
-- Suporte a subtarefas
-- Marcar tarefas como concluídas
-- Filtro por status (pendente, em andamento, concluído)
-- Exibição com colapsar/expandir tarefas
-- Interface com abas para tarefas ativas e concluídas
-- Integração com calendário (tkcalendar)
-- Salvamento em JSON local
+Tkcalendar (Calendário embutido)
 
-## 📦 Requisitos
+JSON (Persistência de dados)
 
-- Python 3.x
-- Tkinter
-- tkcalendar
+🖥️ Funcionalidades
+✅ Cadastro de tarefas com:
 
-## 📽️ Vídeo Demonstrativo
-- https://www.linkedin.com/feed/update/urn:li:activity:7316065059649019905/
+Descrição
 
-## 📥 Instalação
+Data de início e término
 
-git clone https://github.com/Lu-Fran/gerenciador-de-tarefas.git
-cd gerenciador-de-tarefas
-pip install -r requirements.txt
+Status (A iniciar, Em andamento, Concluída)
+
+✅ Cadastro de subtarefas
+
+✅ Edição de tarefas e subtarefas
+
+✅ Conclusão e remoção
+
+✅ Salvamento automático em arquivo tarefas.json
+
+✅ Interface intuitiva com árvore de tarefas e subtarefas
+
+📂 Estrutura do Projeto
+css
+Copiar código
+gerenciador_de_tarefas/
+│
+├── tarefas.json
+├── main.py
+└── README.md
+📦 Como Executar
+Clone este repositório:
+
+bash
+Copiar código
+git clone https://github.com/Lu-Fran/gerenciador_de_tarefas.git
+Navegue até a pasta do projeto:
+
+bash
+Copiar código
+cd gerenciador_de_tarefas
+Certifique-se de estar na branch correta:
+
+nginx
+Copiar código
+git checkout versao-tkinter-desktop
+Execute o projeto:
+
+css
+Copiar código
 python main.py
+🚀 Próximos Passos
+Migração para versão Web (Flask)
 
-📌 Melhorias Futuras
-🔍 Busca por palavra-chave
-📆 Notificações de tarefas vencidas
-📊 Relatório de tarefas por status
-🌐 Versão web com Flask ou Django
+Desenvolvimento da versão mobile
 
-🧑‍💻 Autor
-Desenvolvido por Luís Francisco
-🔗 LinkedIn
-
-
- 📧 linkedin.com/in/luis-eduardo-7481381a2
-
-📧 lecfranca.ti@gmail.com
-
-📄 Licença
-Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
-
+Integração com banco de dados
