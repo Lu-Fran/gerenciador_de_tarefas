@@ -31,8 +31,7 @@ Status (A iniciar, Em andamento, Concluída)
 ✅ Interface intuitiva com árvore de tarefas e subtarefas
 
 📂 Estrutura do Projeto
-css
-Copiar código
+
 gerenciador_de_tarefas/
 │
 ├── tarefas.json
@@ -41,23 +40,15 @@ gerenciador_de_tarefas/
 📦 Como Executar
 Clone este repositório:
 
-bash
-Copiar código
 git clone https://github.com/Lu-Fran/gerenciador_de_tarefas.git
 Navegue até a pasta do projeto:
 
-bash
-Copiar código
 cd gerenciador_de_tarefas
 Certifique-se de estar na branch correta:
 
-nginx
-Copiar código
 git checkout versao-tkinter-desktop
 Execute o projeto:
 
-css
-Copiar código
 python main.py
 🚀 Próximos Passos
 Migração para versão Web (Flask)
