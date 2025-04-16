@@ -1,8 +1,13 @@
 📌 Gerenciador de Tarefas — Tkinter Desktop
+
+
 📖 Descrição
-Aplicativo de gerenciamento de tarefas desenvolvido em Python com Tkinter para interface gráfica. Permite criar, editar, excluir e concluir tarefas e subtarefas, com controle de datas e status.
+
+Aplicativo de gerenciamento de tarefas desenvolvido em Python com Tkinter para interface gráfica.Permite criar, editar, excluir e concluir tarefas e subtarefas, com controle de datas e status.
+
 
 🎨 Tecnologias Utilizadas
+
 Python 3.x
 
 Tkinter (Interface gráfica)
@@ -11,7 +16,9 @@ Tkcalendar (Calendário embutido)
 
 JSON (Persistência de dados)
 
+
 🖥️ Funcionalidades
+
 ✅ Cadastro de tarefas com:
 
 Descrição
@@ -30,14 +37,22 @@ Status (A iniciar, Em andamento, Concluída)
 
 ✅ Interface intuitiva com árvore de tarefas e subtarefas
 
+
 📂 Estrutura do Projeto
 
 gerenciador_de_tarefas/
+
 │
+
 ├── tarefas.json
+
 ├── main.py
+
 └── README.md
+
+
 📦 Como Executar
+
 Clone este repositório:
 
 git clone https://github.com/Lu-Fran/gerenciador_de_tarefas.git
@@ -50,7 +65,10 @@ git checkout versao-tkinter-desktop
 Execute o projeto:
 
 python main.py
+
+
 🚀 Próximos Passos
+
 Migração para versão Web (Flask)
 
 Desenvolvimento da versão mobile
